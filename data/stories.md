@@ -1,0 +1,25 @@
+## say goodbye
+* goodbye
+  - utter_goodbye
+
+## ask for time zone long
+* great
+  - utter_great
+* find_time_zone
+  - utter_ask_location
+* city_info
+  - utter_finding_time_zone
+  - action_show_time_zone
+* thanks
+  - utter_you_are_welcome
+  - utter_goodbye
+
+## ask for time zone short
+* great
+  - utter_great
+* find_time_zone_for_location
+  - utter_finding_time_zone
+  - action_show_time_zone
+* thanks
+  - utter_you_are_welcome
+  - utter_goodbye
